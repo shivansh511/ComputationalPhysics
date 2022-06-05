@@ -6,9 +6,6 @@
 
 using namespace std;
 
-//Universal gravitational constant
-const double G = 1;
-
 int main(){
     double x, y, vx, vy;
     double t, dt;
